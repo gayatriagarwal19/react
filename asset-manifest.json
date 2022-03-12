@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reacttask/static/css/main.775c7c6c.css",
+    "main.js": "/reacttask/static/js/main.eae4520b.js",
+    "static/media/image1.jpg": "/reacttask/static/media/image1.de5659898d3bfc5eb8ea.jpg",
+    "static/media/image6.jpg": "/reacttask/static/media/image6.c8e969346e5a2a94dc82.jpg",
+    "static/media/image5.png": "/reacttask/static/media/image5.7ed6a7552508f2156e99.png",
+    "static/media/image2.png": "/reacttask/static/media/image2.d456567134dcf21bd951.png",
+    "static/media/image4.png": "/reacttask/static/media/image4.6dc3873f5852cec89898.png",
+    "static/media/image3.png": "/reacttask/static/media/image3.03d289bf3b695c361657.png",
+    "static/media/cloudy.png": "/reacttask/static/media/cloudy.a6d0b7d87d2022baaf47.png",
+    "index.html": "/reacttask/index.html",
+    "main.775c7c6c.css.map": "/reacttask/static/css/main.775c7c6c.css.map",
+    "main.eae4520b.js.map": "/reacttask/static/js/main.eae4520b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.775c7c6c.css",
+    "static/js/main.eae4520b.js"
+  ]
+}
