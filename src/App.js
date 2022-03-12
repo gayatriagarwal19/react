@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Switch>
-        <Route exact path="/reacttask" component={Carou} />
+        <Route exact path="/" component={Carou} />
         <Route exact path="/weather" component={Weather} />
         <Route exact path="/todo" component={Todo} />
       </Switch>
