@@ -1,7 +1,7 @@
 {
   "name": "route-react1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://gayatriagarwal19.github.io/reacttask",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
